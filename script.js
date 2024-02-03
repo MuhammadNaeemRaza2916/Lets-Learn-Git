@@ -2,7 +2,9 @@ import React from 'react'
 
 const script = () => {
   return (
-    <div>script</div>
+    <div>
+        <h1>Hello World</h1>
+    </div>
   )
 }
 
